@@ -9,7 +9,7 @@
 - サブカテゴリ：ログ解析・障害対応AI
 - Repository：`ai-log-root-cause-analyzer`
 - 公開URL：https://ai-log-root-cause-analyzer.vercel.app
-- GitHub URL：未設定。Remote作成後の実URLを確認して記載すること
+- GitHub URL：https://github.com/shunsoco-stack/ai-log-root-cause-analyzer
 
 ## 必須確認
 

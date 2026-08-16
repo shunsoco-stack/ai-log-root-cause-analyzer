@@ -195,7 +195,7 @@ VercelなどNext.js Route Handlerが動作する環境へDeployできます。�
 - Human Review内容はブラウザを閉じると失われます
 - AI連携はOpenAI互換Chat Completions APIを前提とします
 - 公開URL：https://ai-log-root-cause-analyzer.vercel.app
-- GitHub URLは未設定です
+- GitHub URL：https://github.com/shunsoco-stack/ai-log-root-cause-analyzer
 
 ## Getting Started
 
